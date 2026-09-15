@@ -1,1 +1,5 @@
-{"api":"https://vexvpn.app"}
+{
+  "site":"https://vexvpn.app",
+  "cabinet":"https://app.vexvpn.app",
+  "config":"https://sub.vexvpn.app"
+}
